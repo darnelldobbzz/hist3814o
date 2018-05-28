@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History at Carleton
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>52</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>But it may be asked whether no time, except Sunday, is given to the slaves for
+                the raising of food. The law of the island requires that one day in a fortnight,
+                except during the time of crop, should be allowed to the slaves, exclusive of
+                Sunday, cultivating their provision-grounds. This would amount to from fourteen to
+                sixteen days in the year, The proprietor of <placeName key="Hanover, Jamaica"
+                ref="https://tools.wmflabs.org/geohack/geohack.php?params=18_25_1_N_78_7_58_W">Georgia</placeName>
+                was, however, more liberal than the law. There the slaves were allowed for this purpose
+                (and other proprietors in that quarter,<persName key="Cooper, Thomas" from="?" to="?" role="Pastor"
+                >Mr. Cooper</persName> thinks, may have been equally liberal, every Saturday after crop,
+                until they began to dig the land into holes for the fall-plant, when they are allowed only
+                every second Saturday. By this arrangement, the Negroes belonging to Georgia had about
+                twenty-eight days in the year allowed them for the cultivation of their grounds, besides Sundays.</p>
+                <p>As this time, however, had been given them for the express purpose of raising
+                their food, it would have been unjust to the slaves, and would have placed both
+                religion and its minister in an odious light, had any part of it been authoritatively
+                diverted from its original destination, with a view to attendance upon <persName key="Cooper, Thomas"
+                from="?" to="?" role="Pastor">him</persName>. Accordingly it was agreed that, out of crop,
+                an afternoon every fortnight should be allowed for religious service and instruction.
+                Mr. Cooper had thus an opportunity of preaching to the slaves about eleven or twelve times
+                in the year. But the moment crop began, there was an entire cessation for five or six months
+                of all meetings of the kind.</p>
+                <p>After remaining in this unsatisfactory state for upwards of three years,Mr. Cooper
+                as has been already remarked, quitted Jamaica and returned to Great Britain. He justly
+                observes, that it could perhaps hardly</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>
